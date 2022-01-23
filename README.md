@@ -1,2 +1,2 @@
 # TSWD-repository
-TSWD Portfolio.
+This is my public portfolio for my Telling Stories with Data course at CMU!
