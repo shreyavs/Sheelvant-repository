@@ -9,5 +9,9 @@ My interest in Product Management started when I joined Deloitte USI. I worked w
 I wish to improve my creative abilities during this course. As a Product Manager, I believe I should be able to sell the product to the customer, and data is a huge part of that. I believe that by taking this course, I will be able to better prepare myself for the future.
 
 # Portfolio
-###### Assigment 1
+
+
+###### Assigment 2
+https://shreyavs.github.io/Sheelvant-repository/dataviz2.md
+
 ###### Final Project 
