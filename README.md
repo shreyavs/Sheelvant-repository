@@ -11,7 +11,6 @@ I wish to improve my creative abilities during this course. As a Product Manager
 # Portfolio
 
 
-###### Assigment 2
-https://shreyavs.github.io/Sheelvant-repository/dataviz2.md
+###### [Assigment 2](dataviz2.md)
 
 ###### Final Project 
