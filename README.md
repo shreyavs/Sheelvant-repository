@@ -11,6 +11,8 @@ I wish to improve my creative abilities during this course. As a Product Manager
 # Portfolio
 
 
-###### [Assigment 2](Visualizing_Government_Debt.md)
+### [Assigment 2](Visualizing_Government_Debt.md)
+
+This assignment focuses on visualizing a dataset representing the Government Debt of countries around the world. 
 
 ###### Final Project 
