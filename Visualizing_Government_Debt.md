@@ -14,7 +14,7 @@ I've segmented the previous chart into individual country charts so we can see h
 
 #### Updated Visualization 2
 
-This depiction is different from the previous one, but instead of a trend analysis, here we are seeing how the Debt-to-GDP ration has increased across counrties over the years.  This emphasizes the seriousness of the problem. The size of the dot increases in proportion to the amount of growth in the Debt-to-GDP ratio, visually conveying the chart's goal to the observer.
+This depiction is different from the previous one, but instead of a trend analysis, here we are seeing how the Debt-to-GDP ration has increased across counrties over the years.  This emphasizes the seriousness of the problem. The size of the dot increases in proportion to the amount of growth in the Debt-to-GDP ratio, visually conveying the chart's goal to the observer. We can see which countries have recently experienced an increase in the ratio, as well as how their ratios have changed through time, because the X-axis and Y-axis are both fixed. To indicate that this is a negative situation, the dots are colored red.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8567841">
   <script src="https://public.flourish.studio/resources/embed.js"></script>
 </div>
