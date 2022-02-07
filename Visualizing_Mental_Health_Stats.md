@@ -13,7 +13,8 @@ The data represented by the chart is valid but not entirely accurate. The chart 
 The graph below displays the same information as the previous graph, in a different layout.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8628385">
-  <script src="https://public.flourish.studio/resources/embed.js"></script>
+  <script src="https://public.flourish.studio/resources/embed.js">
+  </script>
 </div>
 
 
