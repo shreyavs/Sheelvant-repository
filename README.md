@@ -18,6 +18,8 @@ This assignment focuses on visualizing a dataset representing the Government Deb
 
 ### [Assignment 3](Visualizing_Mental_Health_Stats.md)
 
+This assignment focuses on re-designing an existing visualizing of a dataset.
+
 ### [Tableau Visualization](TableauViz.md)
 
 ###### Final Project 
