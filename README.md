@@ -15,6 +15,9 @@ I wish to improve my creative abilities during this course. As a Product Manager
 
 This assignment focuses on visualizing a dataset representing the Government Debt of countries around the world.
 
+
+### [Assignment 3](Visualizing_Mental_Health_Stats.md)
+
 ### [Tableau Visualization](TableauViz.md)
 
 ###### Final Project 
