@@ -48,9 +48,9 @@ The graph below is similar to the previous visualization, with a few updates.
 
 #### Changes incorporated
 Some of the changes incorportaed in the above vizualization are:
-1. Updated the title of the "Anxiety or Depressive Disorder" to "Total"
+1. Updated the title of the "Anxiety or Depressive Disorder" to "Total" and removed "Symptoms of " from other titles.
 2. Included a few more data points before 2019.
-3. Changed the color of the "Covid-19 outbreak" distinction to a light grey and made it a dashed line to ensure that it doesn't get confused with the X-axis
+3. Changed the color of the "Covid-19 outbreak" distinction to a light grey and made it a dashed line to ensure that it doesn't get confused with the X-axis.
 4. Updated the color of the "Total" trend line to grey to draw attention to the other 2 trend lines.
 
 
