@@ -22,4 +22,4 @@ This assignment focuses on re-designing an existing visualizing of a dataset.
 
 ### [Tableau Visualization](TableauViz.md)
 
-###### Final Project 
+### [Final Project](FinalProject.md)
