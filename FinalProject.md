@@ -43,21 +43,33 @@ I'll be using this pie chart to demonstrate the disparity in the proportion of u
 I'll be using this line chart along with other charts on mental health to show the increasing trend in unhappy employees to draw a connection between lack of passion and poor mental health.
 
 ### The Data
-Source: https://www.indiabudget.gov.in/doc/eb/allsbe.pdf, https://www.indiabudget.gov.in/doc/eb/sbe26.pdf
+Source: https://www.indiabudget.gov.in/doc/eb/allsbe.pdf, https://www.indiabudget.gov.in/doc/eb/sbe26.pdf <br>
 Information: This pdf provides information about the budget for different educational programs declared by the Indian government. I will use this data in a chart to show how most of the educational budget is sectioned out for only a few fields.
 
-Source: https://www.dreducation.com/2013/08/data-statistics-india-student-college.html, https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/AISHE2015-16.pdf
+Source: https://www.dreducation.com/2013/08/data-statistics-india-student-college.html, https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/AISHE2015-16.pdf <br>
 Information: This pdf contains the results of a detailed survey of education in India. I will be using this data to compare student enrollment rates, differences in the number of colleges/programs available.
 
-Source: https://www.averagesalarysurvey.com/india
+Source: https://www.averagesalarysurvey.com/india <br>
 Information: This website provides wage statistics after completing a degree. I will update and use this chart in my study to highlight that different professional routes are equally lucrative.
 
-Source: https://indiaeducationforum.org/pdf/ISR-2021.pdf
+Source: https://indiaeducationforum.org/pdf/ISR-2021.pdf <br>
 Information: This document contains information on the skillset gap in each workforce. I will use these figures to demonstrate the absence of specialization in educational programs.
 
 
 ### The Medium
 I plan to create rough sketches of the story and the charts using pen and paper and remake them on a digital platform for the final project. I will use Shorthand to visualize my story and Flourish and Tableau to create the graphics required for the visualization.
+
+To complete the final project, I will be doing the following:
+1. I'll be gathering more data for the various segments of the story arc.
+2. After gathering sufficient data, I will evaluate the story arc and make necessary changes.
+3. I'll sketch out rough visualizations for each section of the narrative.
+4. I'll build the narrative with the visualizations to effectively represent the story I want to tell.
+5. I'll gather feedback from my peers and others.
+6. I'll incorporate the proposed changes.
+7. I'll make a digital copy of the charts and sketches.
+8. I'll create a storyboard in Shorthand integrating these visualizations and the narrative.
+9. I'll gather feedback from my peers and others.
+10. I'll incorporate the proposed changes.
 
 
 
