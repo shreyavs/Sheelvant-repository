@@ -5,7 +5,7 @@
 ##### Summary
 Despite having a wide range of skills, Indians believe that Engineering, Law, and Medicine are the only ways to make a living.
 
-##### Understanding the Audiance
+##### Understanding the Audience
 The target audience of my final project is students, parents, and the government. Each user's needs and how they can be addressed are shown below.
 1. As a student, I want to know how lucrative other career opportunities are, so that, I can make an informed decision about my future. I can do this by educating myself on the different options available to me.
 2. As a parent, I want to know how lucrative other career opportunities are, so that, I can help my child make an informed decision about their future. I can do this by educating myself on the different options available to my child.
@@ -27,19 +27,19 @@ Based on my story, the emotional reactions I expect from the audience are depict
 ##### Rough Skecthes
 Here are some of the rough sketches of charts I will be including in the final project:
 
-<img width="718" alt="1" src="https://user-images.githubusercontent.com/41322681/153782633-a61dafba-f25b-43e7-aa3d-d50a63a9bfc6.png">
+<img width="300" alt="1" src="https://user-images.githubusercontent.com/41322681/153782633-a61dafba-f25b-43e7-aa3d-d50a63a9bfc6.png"> <br>
 I'll be using this unit chart to show the incomes of various job titles to demonstrate that there are alternative lucrative career options.
 
-<img width="865" alt="2" src="https://user-images.githubusercontent.com/41322681/153782918-94aa2aac-47ee-4d2f-8113-d3a2b40be000.png">
+<img width="300" alt="2" src="https://user-images.githubusercontent.com/41322681/153782918-94aa2aac-47ee-4d2f-8113-d3a2b40be000.png"> <br>
 I'll be using this bar chart to demonstrate the decline in employment diversity over time.
 
-<img width="944" alt="3" src="https://user-images.githubusercontent.com/41322681/153783056-b6b05021-96ab-40ec-8481-0a26c11bdc8f.png">
+<img width="300" alt="3" src="https://user-images.githubusercontent.com/41322681/153783056-b6b05021-96ab-40ec-8481-0a26c11bdc8f.png"> <br>
 I'll be using this world map as a heat map to highlight which countries have educational heterogeneity while talking about how these countries are performing financially.
 
-<img width="941" alt="4" src="https://user-images.githubusercontent.com/41322681/153783275-7d6e6424-d362-40f4-8a0b-2698e36a4439.png">
+<img width="300" alt="4" src="https://user-images.githubusercontent.com/41322681/153783275-7d6e6424-d362-40f4-8a0b-2698e36a4439.png"> <br>
 I'll be using this pie chart to demonstrate the disparity in the proportion of universities catering to distinct educational disciplines.
 
-<img width="1000" alt="5" src="https://user-images.githubusercontent.com/41322681/153783472-694456be-8c89-4d83-a396-4020e656c62a.png">
+<img width="300" alt="5" src="https://user-images.githubusercontent.com/41322681/153783472-694456be-8c89-4d83-a396-4020e656c62a.png"> <br>
 I'll be using this line chart along with other charts on mental health to show the increasing trend in unhappy employees to draw a connection between lack of passion and poor mental health.
 
 ### The Data
