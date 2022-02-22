@@ -33,15 +33,15 @@ To help find people who fall into these categories I asked a few of my friends i
 ##### User Research Protocol
 Here are some of the things I hope to find during the interviews:
 <ul>
-  <li>Does the title provdie enough context?</li>
-  <li>Is the user able to understand the mood of the presenattion from the pictures?</li>
+  <li>Does the title provide enough context?</li>
+  <li>Is the user able to understand the mood of the presentation from the pictures?</li>
   <li>Are there any areas of improvement?</li>
-  <li>Are the ncluded charts enough to support the claim?</li>
-  <li>Is there a flow to the presnetation?</li>
+  <li>Are the included charts enough to support the claim?</li>
+  <li>Is there a flow to the presentation?</li>
   <li>Are the social media posts serving the purpose?</li>
   <li>Are there any major elements missing?</li>
-  <li>Does something need to be removed from the presenattion?</li>
-  <li>Based on the user's prior knowledge of the subject, did tehy feel more passioantly about the topic, less passionatley about the tipoc or retained their emotiona?</li>
+  <li>Does something need to be removed from the presentation?</li>
+  <li>Based on the user's prior knowledge of the subject, did they feel more passionately about the topic, less passionately about the topic or retained their emotions?</li>
 </ul> <br />
 
 ##### Interview Script
