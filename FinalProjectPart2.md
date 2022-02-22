@@ -45,13 +45,14 @@ Here are some of the things I hope to find during the interviews:
 </ul> <br />
 
 ##### Interview Script
-This is the basic interview question list I put together. I altered it to be more conversational based on the interviewee's responses.
+This is the basic interview question list I put together. I altered it to be more conversational based on the interviewee's responses. <br />
 **On Slide 1:**
 <ol>
   <li>What do you think the goal of this presentation is based on the first slide?</li>
   <li>What do you think the story's mood is based on aesthetics?</li>
   <li>Is this topic something you are aware of or passionate about?</li>
 </ol>
+<br />
 **After viewing the storyboard**
 <ol>
   <li>What did you like about the presentation?</li>
@@ -67,6 +68,9 @@ This is the basic interview question list I put together. I altered it to be mor
   <li>How do you feel about the topic now?</li>
 </ol>
 <br />
+
+##### Interview Findings
+I've compiled a list of the feedback I received from my interviewees:
 
   
 
