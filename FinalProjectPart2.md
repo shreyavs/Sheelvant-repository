@@ -1,5 +1,4 @@
 ## FINAL PROJECT OVERVIEW
-* * *
 
 #### Updates
 In the second phase of my project, I narrowed the project's focus to lack of medical education in India.
@@ -41,6 +40,7 @@ Here are some of the things I hope to find during the interviews:
   <li>Are the social media posts serving the purpose?</li>
   <li>Are there any major elements missing?</li>
   <li>Does something need to be removed from the presentation?</li>
+  <li>Did the user need any explanation to understand the presentation?</li>
   <li>Based on the user's prior knowledge of the subject, did they feel more passionately about the topic, less passionately about the topic or retained their emotions?</li>
 </ul> <br />
 
