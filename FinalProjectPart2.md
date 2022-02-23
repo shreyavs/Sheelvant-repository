@@ -20,7 +20,7 @@ I've broken down the story into the following sections:
 
 #### Wireframes and storyboards
 I've used Shorthand, Unsplash, Pexels, Flourish, and the Noun Project tools to create the storyboard. A rough draft of the storyboard is available here: 
-https://preview.shorthand.com/pH0OViyrAkn5ThZw?_gl=1*ufacry*_gcl_aw*R0NMLjE2NDU0MDMxNjkuQ2p3S0NBaUE2c2VRQmhBZkVpd0F2UHF1MTVudkh1R0pYMFlKRUFTQUl2cE4ySV83UTU2LXlyLUVqLUJ2aUpEakVrTmdROGlUZHlLekRob0NpdGdRQXZEX0J3RQ..
+https://shorthand.com/organisations/JSrgFWI7zn/stories/q0f2dUuw4R
 <br />
 I created the storyboard in Shorthand so that I could easily showcase the story during user interviews without needing to explain it. <br />
 
