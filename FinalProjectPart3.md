@@ -30,7 +30,7 @@ If I were to continue working on the project, the following are some of the adju
   <li>I'd work on the narrative more to make it more succinct.</li>
   <li>I would change the story arc. The story's structure may yet be improved to captivate the audience.</li>
   <li>I'd search for further information on the quality of medical education in India.</li>
-  <li>I'd work on the storyboard's theme. I attempted to maintain the theme by utilizing dull images and red highlighted text, however, I believe the storyboard can be better illustrated.</li>\
+  <li>I'd work on the storyboard's theme. I attempted to maintain the theme by utilizing dull images and red highlighted text, however, I believe the storyboard can be better illustrated.</li>
   <li>I'd experiment with different forms of visualizations to represent data. I'm currently using simple charts, which I believe can be improved.</li>
 </ol>
 
