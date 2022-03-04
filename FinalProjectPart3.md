@@ -1,7 +1,7 @@
 ## PART 3
 
 #### Storyboard
-<a href = 'https://carnegiemellon.shorthandstories.com/india-s-medical-education-has-to-be-reformed/index.html'>Storyboard</a>
+<a href = 'https://carnegiemellon.shorthandstories.com/india-s-medical-education-has-to-be-reformed/index.html'>Shorthand</a>
 
 #### Part 1 Brief
 In part 1, I started with the topic "Education in India," with the intention of drawing attention to the differences in educational systems in India. I intended to include information on job rates and earnings after graduation, educational systems in other countries, the diverse skills of students, as well as information on the reasons for this, social expectations, and long-term trends. I intended to persuade the audience of the value of diverse career pathways and educational programs in the call to action section. In phase one of the project, I gathered data for the presentation, created and adjusted various story arcs that I wanted to work with. I also created a few rough sketches to show the visualizations that would help the narrative. I also began to experiment with shorthand and flourish graphs, iconography, and other tools that I had access to. Additionally, I worked on understanding the audience by putting down their wants and how my story could meet them.
